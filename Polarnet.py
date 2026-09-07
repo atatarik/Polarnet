@@ -6,7 +6,7 @@ matplotlib.use("QtAgg")
 import matplotlib.pyplot as plt
 
 
-trainingIterations = int(1000000) # int(input("how many times to train"))
+trainingIterations = int(input("how many times to train"))
 
 
 n = 30 #medial neurons
